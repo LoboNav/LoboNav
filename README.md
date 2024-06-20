@@ -1,2 +1,3 @@
-- Hola,uwu
-- Me gusta aprender
+- Hola
+- Me gusta aprender, tengo curiosidad por las telecomunicaciones, y los sistemas de red
+- Se de Python, Java, y HTML-PHP
